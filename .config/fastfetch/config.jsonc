@@ -25,99 +25,99 @@
          {
              "type": "custom",
              "format": "┌──────────────────────Hardware──────────────────────┐",
-             "outputColor": "green"
+             "outputColor": "magenta"
          },
          {
              "type": "host",
              "key": " PC",
-             "keyColor": "green"
+             "keyColor": "magenta"
          },
          {
              "type": "cpu",
              "key": "│ ├",
-             "keyColor": "green"
+             "keyColor": "magenta"
          },
          {
              "type": "gpu",
              "key": "│ ├󰍛",
-             "keyColor": "green"
+             "keyColor": "magenta"
          },
          {
              "type": "memory",
              "key": "│ ├󰍛",
-             "keyColor": "green"
+             "keyColor": "magenta"
          },
          {
              "type": "disk",
              "key": "└ └",
-             "keyColor": "green"
+             "keyColor": "magenta"
          },
          {
              "type": "custom",
              "format": "└────────────────────────────────────────────────────┘",
-             "outputColor": "green"
+             "outputColor": "magenta"
          },
          "break",
          {
              "type": "custom",
              "format": "┌──────────────────────Software──────────────────────┐",
-             "outputColor": "yellow"
+             "outputColor": "magenta"
          },
          {
              "type": "os",
              "key": " OS",
-             "keyColor": "yellow"
+             "keyColor": "magenta"
          },
          {
              "type": "kernel",
              "key": "│ ├",
-             "keyColor": "yellow"
+             "keyColor": "magenta"
          },
          {
              "type": "bios",
              "key": "│ ├",
-             "keyColor": "yellow"
+             "keyColor": "magenta"
          },
          {
              "type": "packages",
              "key": "│ ├󰏖",
-             "keyColor": "yellow"
+             "keyColor": "magenta"
          },
          {
              "type": "shell",
              "key": "└ └",
-             "keyColor": "yellow"
+             "keyColor": "magenta"
          },
          "break",
          {
              "type": "de",
              "key": " DE",
-             "keyColor": "blue"
+             "keyColor": "magenta"
          },
          {
              "type": "lm",
              "key": "│ ├",
-             "keyColor": "blue"
+             "keyColor": "magenta"
          },
          {
              "type": "wm",
              "key": "│ ├",
-             "keyColor": "blue"
+             "keyColor": "magenta"
          },
          {
              "type": "wmtheme",
              "key": "│ ├󰉼",
-             "keyColor": "blue"
+             "keyColor": "magenta"
          },
          {
              "type": "terminal",
              "key": "└ └",
-             "keyColor": "blue"
+             "keyColor": "magenta"
          },
          {
              "type": "custom",
              "format": "└────────────────────────────────────────────────────┘",
-             "outputColor": "blue"
+             "outputColor": "magenta"
          },
          "break",
          {
