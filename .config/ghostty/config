@@ -22,8 +22,8 @@ palette = 12=#0a84ff
 palette = 13=#bf5af2
 palette = 14=#76d6ff
 palette = 15=#ffffff
-font-size = 14
-font-style = noto-fonts
-font-style-bold = noto-fonts
-font-style-italic = noto-fonts
-font-style-bold-italic = noto-fonts
+font-size = 12
+font-style = Fira Sans Regular
+font-style-bold = Fira Sans Bold
+font-style-italic = Fira Sans Italic
+font-style-bold-italic = Fira Sans Bold Italic
