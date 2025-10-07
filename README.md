@@ -1,5 +1,5 @@
 Just a simple Ghostty and Fastfetch config.
 
-Ghostty config requires the MesloLGS Nerd patched fonts installed.
+Ghostty config requires the MesloLGL Nerd patched fonts installed.
 
 <img width="2534" height="1387" alt="Screenshot_20251007_095540" src="https://github.com/user-attachments/assets/8ce6fd26-2320-48a4-82cc-77ec51fdbf3f" />
