@@ -6,6 +6,6 @@ Just some configs.
 
 # Contents
 
-fastfetch config
-ghostty config
+fastfetch config<br/>
+ghostty config<br/>
 starship config (empty for now)
