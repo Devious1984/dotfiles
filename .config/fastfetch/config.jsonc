@@ -34,11 +34,13 @@
          },
          {
              "type": "cpu",
+             "temp": true,
              "key": "│ ├",
              "keyColor": "magenta"
          },
          {
              "type": "gpu",
+             "temp": true,
              "key": "│ ├󰍛",
              "keyColor": "magenta"
          },
