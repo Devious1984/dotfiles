@@ -23,7 +23,7 @@ palette = 13=#bf5af2
 palette = 14=#76d6ff
 palette = 15=#ffffff
 font-size = 12
-font-style = Fira Sans Regular
-font-style-bold = Fira Sans Bold
-font-style-italic = Fira Sans Italic
-font-style-bold-italic = Fira Sans Bold Italic
+font-style = MesloLGL Nerd Font Mono Regular
+font-style-bold = MesloLGL Nerd Font Mono Bold
+font-style-italic = MesloLGL Nerd Font Mono Italic
+font-style-bold-italic = MesloLGL Nerd Font Mono Bold Italic
