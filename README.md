@@ -2,7 +2,7 @@ Just some configs.
 
 # Glory to the Genius Society! Glory to Madam Herta!
 
-https://github.com/user-attachments/assets/0ab09acb-a9b1-4b3a-bc1b-71dcd62b5cd4
+https://github.com/user-attachments/assets/f2b9742b-9626-4157-80e9-47994bd837e0
 
 # Contents
 
