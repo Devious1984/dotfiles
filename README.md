@@ -8,5 +8,5 @@ Just some configs.
 
 fastfetch config<br/>
 ghostty config (Requires MesloLGL Nerd Fonts on your system)<br/>
-starship config (empty for now)
+starship config (empty for now)<br/>
 helix config (wip)
