@@ -2,11 +2,11 @@ Just some configs.
 
 # Glory to the Genius Society! Glory to Madam Herta!
 
-<img width="2534" height="1387" alt="Screenshot_20251007_095540" src="https://github.com/user-attachments/assets/8ce6fd26-2320-48a4-82cc-77ec51fdbf3f" />
+https://github.com/user-attachments/assets/0ab09acb-a9b1-4b3a-bc1b-71dcd62b5cd4
 
 # Contents
 
 fastfetch config<br/>
-ghostty config (Requires MesloLGL Nerd Fonts on your system)<br/>
+ghostty config<br/>
 starship config (empty for now)<br/>
-helix config (wip)
+helix config
