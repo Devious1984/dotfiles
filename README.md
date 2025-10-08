@@ -7,5 +7,5 @@ Just some configs.
 # Contents
 
 fastfetch config<br/>
-ghostty config<br/>
+ghostty config (Requires MesloLGL Nerd Fonts on your system)<br/>
 starship config (empty for now)
