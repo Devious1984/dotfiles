@@ -107,11 +107,6 @@
              "keyColor": "magenta"
          },
          {
-             "type": "wmtheme",
-             "key": "│ ├󰉼",
-             "keyColor": "magenta"
-         },
-         {
              "type": "terminal",
              "key": "└ └",
              "keyColor": "magenta"
@@ -148,17 +143,11 @@
              "format": "└────────────────────────────────────────────────────┘",
              "outputColor": "magenta"
          },
- 
- //        {
- //            "type": "colors"
- //        },
- 
-         {
+	 {
              "type": "colors",
              "paddingLeft": 2,
              "symbol": "circle"
-         }
-  
+          }
      ]
- }
+}
  
