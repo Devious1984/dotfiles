@@ -88,7 +88,7 @@
              "type": "packages",
              "key": "│ ├󰏖",
              "keyColor": "magenta"
-         },
+         }, 
          {
              "type": "shell",
              "key": "└ └",
@@ -117,8 +117,14 @@
          },
          {
              "type": "terminal",
-             "key": "└ └",
+             "key": "│ ├",
              "keyColor": "magenta"
+         },
+         {
+             "type": "editor",
+             "key": "└ └",
+             "keyColor": "magenta",
+             "format": "{name}"
          },
          {
              "type": "custom",
