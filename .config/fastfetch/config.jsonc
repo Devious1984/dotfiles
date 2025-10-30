@@ -87,7 +87,7 @@
          {
              "type": "packages",
              "key": "│ ├󰏖",
-             "keyColor": "magenta"
+             "keyColor": "magenta",
          }, 
          {
              "type": "shell",
