@@ -1,0 +1,10 @@
+[Unit]
+Description=Run standsit alarm-service every hour
+
+[Timer]
+OnBootSec=0min
+OnUnitActiveSec=1h
+Unit=standsit-alarm.service
+
+[Install]
+WantedBy=default.target
