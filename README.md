@@ -2,7 +2,7 @@ Just some configs.
 
 # Glory to the Genius Society! Glory to Madam Herta!
 
-<img width="2560" height="1440" alt="Screenshot_20251029_225630" src="https://github.com/user-attachments/assets/2e88aad5-a1f8-4b8f-ab82-036f1329b15e" />
+<img width="2560" height="1440" alt="Screenshot_20251030_120228" src="https://github.com/user-attachments/assets/892049c1-0d97-4998-9591-a9d2a013e01a" />
 
 # Contents
 
@@ -11,6 +11,4 @@ ghostty config<br/>
 starship config (empty for now)<br/>
 btop config (just transparency)<br/>
 neovim config<br/>
-yazi config<br/>
-systemd timer for standsit alarm<br/>
-kde konsave file
+yazi config
