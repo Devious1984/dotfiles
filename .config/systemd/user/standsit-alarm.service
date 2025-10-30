@@ -5,3 +5,6 @@ Description=Hourly alarm for standing or sitting at desk
 Type=oneshot
 ExecStart=/usr/bin/notify-send "Stand/Sit Alarm" "Time to Stand or Sit" --urgency=normal
 ExecStart=/usr/bin/mpv /home/devious/.config/systemd/user/bingo-alarm.wav
+
+[Install]
+WantedBy=default.target

@@ -7,4 +7,5 @@ OnUnitActiveSec=1h
 Unit=standsit-alarm.service
 
 [Install]
-WantedBy=default.target
+WantedBy=timers.target
+
