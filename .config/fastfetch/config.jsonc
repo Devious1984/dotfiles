@@ -124,7 +124,7 @@
              "type": "editor",
              "key": "└ └",
              "keyColor": "magenta",
-             "format": "{name}"
+             "format": "{type}: {name} {version}"
          },
          {
              "type": "custom",
