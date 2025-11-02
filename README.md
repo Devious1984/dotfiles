@@ -8,7 +8,6 @@ Just some configs.
 
 fastfetch config<br/>
 ghostty config<br/>
-starship config (empty for now)<br/>
 btop config (just transparency)<br/>
 neovim config<br/>
-yazi config
+fonts
