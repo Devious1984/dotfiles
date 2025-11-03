@@ -2,7 +2,7 @@ Just some configs.
 
 # Glory to the Genius Society! Glory to Madam Herta!
 
-<img width="2560" height="1440" alt="Screenshot_20251030_120228" src="https://github.com/user-attachments/assets/892049c1-0d97-4998-9591-a9d2a013e01a" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8b699f8d-c40a-4960-a019-bc2badfec8ff" />
 
 # Contents
 
