@@ -139,7 +139,7 @@
          },
          {
              "type": "command",
-             "key": "  Linux start",
+             "key": "  Linux",
              "keyColor": "magenta",
              "text": "~/.config/fastfetch/linuxtime.sh"
              
