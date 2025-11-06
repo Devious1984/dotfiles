@@ -6,9 +6,13 @@
   },
      "modules": [
          "break",
-	 {
-	     "type": "title",
-	     "format": "  {user-name}@{host-name}"
+	       {
+	           "type": "title",
+	           "format": "  {user-name}@{host-name} "
+         },
+         {
+             "type": "LocalIP",
+             "key": "  IP"
          },
          {
              "type": "custom",
